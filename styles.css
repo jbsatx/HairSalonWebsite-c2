@@ -104,6 +104,10 @@ section div p {
   font-size: 22PX;
   font-weight: bolder;
 }
+#myLinks {
+  border: 1px solid fuchsia;
+  display: none;
+}
 @media (max-width: 900px) {
 header nav {
   display: none;
@@ -116,5 +120,9 @@ section {
    height: 100%;
    padding-top: 40px;
  } 
+ #myLinks {
+  border: 1px solid fuchsia;
+  display: none;
+}
 }
   
