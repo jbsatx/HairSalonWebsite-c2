@@ -124,5 +124,10 @@ section {
   border: 1px solid fuchsia;
   display: none;
 }
+ footer {
+  display: flex;
+  background-color: lightseagreen;
+  align-items: center;  
+}
 }
   
